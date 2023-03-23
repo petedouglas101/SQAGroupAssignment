@@ -1,2 +1,15 @@
 
-# Project Plan
+## **Project Plan**
+# Peter
+- []
+- []
+- []
+
+# Yasmin
+- []
+- []
+- []
+# Erika
+- []
+- []
+- []
