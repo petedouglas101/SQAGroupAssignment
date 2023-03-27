@@ -16,12 +16,18 @@ There are many techniques for estimating the time required to complete a task. T
 
     If there are differences in opinion between the team members, the team will have a discussion to resolve the differences. This will will allow the whole team to hear eachothers perspectives and to reach a concensus.
 
-* **Use Case Points** - The team estimates the time required to complete a task by using the Use Case Points technique. The team members are given a set of rules for estimating the time required to complete a task. The team then estimates the time required to complete the task by applying the rules to the task. This technique is more accurate than the planning poker technique but it is still not very accurate. The team members may not be aware of all the details of the task and may not be able to estimate the time required to complete the task accurately.
+## Planning Poker Procedure
 
-* **Function Points** - The team estimates the time required to complete a task by using the Function Points technique. The team members are given a set of rules for estimating the time required to complete a task. The team then estimates the time required to complete the task by applying the rules to the task. This technique is more accurate than the use case points technique but it is still not very accurate. The team members may not be aware of all the details of the task and may not be able to estimate the time required to complete the task accurately.
+For most of our user stories we will be using the Planning Poker technique to estimate the time required to complete the user story. We have decided that one story point is equal to one day of work.
 
-* **COCOMO** - The team estimates the time required to complete a task by using the COCOMO technique. The team members are given a set of rules for estimating the time required to complete a task. The team then estimates the time required to complete the task by applying the rules to the task. This technique is more accurate than the function points technique but it is still not very accurate. The team members may not be aware of all the details of the task and may not be able to estimate the time required to complete the task accurately.
+The Planning Poker procedure is as follows:
 
-* **Parametric Estimation** - The team estimates the time required to complete a task by using the Parametric Estimation technique. The team members are given a set of rules for estimating the time required to complete a task. The team then estimates the time required to complete the task by applying the rules to the task. This technique is more accurate than the COCOMO technique but it is still not very accurate. The team members may not be aware of all the details of the task and may not be able to estimate the time required to complete the task accurately.
+* A moderator, who does not play, is appointed to run the meeting. This is usually the Product Owner or Scrum Master.
 
-* **Monte Carlo Simulation** - The team estimates the time required to complete a task by using the Monte Carlo Simulation technique. The team members are given a set of rules for estimating the time required to complete a task. The team then estimates the time required to complete the task by applying the rules to the task. This technique is more accurate than the parametric estimation technique but it is still not very accurate. The team members may not be aware of all the details of the task and may not be able to estimate the time required to complete the task accurately.
+* The moderator provides a short overview of one user story to be estimated. The team is given the opportunity to ask questions and discuss to clarify assumptions and risks.
+
+* Usually an online tool, like planningpoker.com, is used to facilitate the estimation process. The moderator creates a new session and invites the team members to join the session. The moderator then selects the user story to be estimated and the team members are given the opportunity to select their estimates.
+
+* Estimates are then revelaed and the team discusses the estimates. If there are differences in opinion, the team will have a discussion to resolve the differences. This will will allow the whole team to hear eachothers perspectives and to reach a concensus.
+
+* Once a concensus has been reached, the moderator records the estimate and the team moves on to the next user story.
