@@ -6,12 +6,15 @@ Code reviews are methodical assesments of code designed to identify bugs, increa
 
 ![Code Review Image][def]
 
+
+# Good practices for code reviews
 1.	**Create a code review checklist** – a set of rules that all coders follow during this process. Stops more bugs in code. Provides more effective code reviews.
 2.	**Take your time** – should not be inspecting more than 500 lines of code per hour. We took our time at the start of this project to avoid confusion. Decided to review bugs in our code at a slower rate to make sure we got to the bottom of it.
 3.	**Team members should annotate source code before the review.** - You can help your teammates understand what you're attempting to do by giving them more background on why you want to update the source code.
 4.	**Only pull and push bit by bit** - By doing this, the process will move more quickly, and you can see precisely what code snippets are being committed to GitHub. We done this by adding each of our sections at a time to visual studio code and then adding, pushing, and committing it to GitHub.
 5.	**When faced with an error, justify your reasoning for your solution?** - We all understood there were many ways to fix a problem when we encountered them. But before making a change, we all needed to understand why this approach would be better to the alternatives. It's critical to share your arguments since they may help someone else who has an issue like yours in the future.
 6.	**Establishing a process to fix defects.** - Making use of a code review tool is an excellent technique to develop a process. By doing this, all team members have access to updates, can log bugs found, and can collaborate on improvements.
+7. **Use constructive criticism and choose your language carefully**: For example, saying "I didn't see where these variables were initialized." is likely to ellicit a constructive response, whereas saying "You didn't initialize these variables." is likely to ellicit a defensive response.
 
 # What to look for in a code review
 
@@ -43,6 +46,14 @@ Code reviews are methodical assesments of code designed to identify bugs, increa
 
 5. **Failing to enforce standards**: Code reviews are a great way to enforce coding standards. Failing to enforce these standards can lead to inconsistent code.
 
+# Possible benefits of code reviews
+
+* Less time spent performing rework
+* Increased programming productivity
+* Better techniques learned from other developers
+* Reduced unit testing and debugging time
+* Less debugging during integration and system testing
+* Exchanging of information about components and overall system with other team members
 
 
 
