@@ -1,6 +1,6 @@
 # Introduction
 
-We have created this hand-book to discuss our best practices to help teams learn a better way of making progress and ensuring high quality software projects. My team and I have research the following topics to provide a simple overview for readers: 
+We have created this hand-book to discuss our best practices to help teams learn a better way of making progress and ensuring high quality software projects. My team and I have researched the following topics to provide a simple overview for readers: 
 
 | HandBook Topics ||
 | ----------- | ----------- |
@@ -10,4 +10,6 @@ We have created this hand-book to discuss our best practices to help teams learn
 
 |
 
-Each topic is discussed in a separate file for you to read through. In each file you will find a brief introduction to the best practice being discussed, techniques available to implement these best practices and some benefits and challenges to each best practice. We included the benefits and challenges to enable the reader of this handbook to decide which practice suits your company best.  
+Each topic is discussed in a separate file for you to read through. In each file you will find a brief introduction to the best practice being discussed, techniques available to implement these best practices and some benefits and challenges to each best practice. We included the benefits and challenges to enable the reader of this handbook to decide which practice suits your company best.
+
+This document will be constantly updated with new best practices and techniques. We will also be adding more information to each topic to provide more detail and examples. We would also encourage each employee to provide feedback and insights to help improve this handbook.
